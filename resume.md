@@ -7,54 +7,56 @@ subtitle: An awesome person
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 运动
+```运动；是一种涉及体力和技巧的一套规则，又有习惯所约束的行为活动，通常具有竞争性。没有不运动的物件，也没有能离开物件的运动。运动具守恒性，即运动既不能被创造又不能被消灭，其具体形式则是多样的并且能互相转化，在转化中运动总量不变。在几何中，刚性运动被描述为：平面到其自身的一个映射且使任意两点A,B的距离与其象A‘=M(A),B'=M(B)的距离相同。哲学上，运动的定义是：物在时空中的线性迁移。   ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+### 球类
+**篮球** -891年12月21日，由美国马萨诸塞州斯普林菲尔德基督教青年会训练学校体育教师詹姆士·奈史密斯发明 [2]  。1896年，篮球运动传入中国天津。1904年，圣路易斯奥运会上第1次进行了篮球表演赛。1936年，篮球在柏林奥运会中被列为正式比赛项目 [1]  ，中国也首次派出篮球队参加奥运会篮球项目。1992年，巴塞罗那奥运会开始，职业选手可以参加奥运会篮球比赛 [1-2]  。
+篮球的最高组织机构国际篮球联合会，1932年成立，总部设在瑞士日内瓦。当代世界篮球水平最高的联赛是美国男子篮球职业联赛（NBA）比赛。中国的篮球水平最高的联赛是中国职业篮球联赛（CBA）比赛.  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**羽毛球** - 羽毛球是一项室内、室外都可以进行的体育运动。依据参与的人数，可以分为单打与双打，及新兴的3打3。羽毛球拍由拍面、拍杆、拍柄及拍框与拍杆的接头构成。一支球拍的长度不超过680毫米，其中球拍柄与球拍杆长度不超过41厘米，拍框长度为28厘米，宽为23厘米，随着科学技术的发展，球拍的发展向着重量更轻、拍框更硬、拍杆弹性更好的方向发展。
+现代羽毛球运动起源于英国。1873年，英国格拉斯哥郡伯明顿镇，一位叫鲍弗特的公爵， 在领地开游园会，有几个从印度回来的退役军官向大家介绍了一种隔网用拍子来回击打毽球的游戏。因这项活动极富趣味性，很快就在上层社会风行开来。“伯明顿”（Badminton）即成为英文羽毛球的称谓。1893年，英国14个羽毛球俱乐部组成羽毛球协会，即全英公开赛的前身。1992年起，羽毛球成为奥运会的正式比赛项目。
+2017年11月，世界羽联讨论通过了羽毛球发球新规，新规要求发球时击球点的高度将不能超过1.15米 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**乒乓球** -乒乓球（table tennis），被称为中国的“国球”，是一种世界流行的球类体育项目，包括进攻、对抗和防守。比赛分团体、单打、双打、混双等数种；2001年9月1日前以21分为一局，现以11分为一局；采用三局两胜，五局三胜，七局四胜。乒乓球为圆球状，重2.53～2.70克，白或橙色，以高分子聚合物为原料的新塑料球。
+乒乓球起源于英国，“乒乓球”一名起源自1900年，因其打击时发出“Ping Pong”的声音而得名，在中国大陆以“乒乓球”作为它的官方名称，香港及澳门等地区亦同。1926年，在英国伦敦举行了国际乒乓球邀请赛。后被追认为第一届世界乒乓球锦标赛。.  
 
-### EDUCATION
+### 田径
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+**跑步**  
+跑步的定义是指陆生动物使用足部移动。它在运动上的定义是一种步伐，双脚不会同一时间踫到地面。它亦可以是一种有氧的运动或厌氧的运动。  
  
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+**跳高**  
+跳高是田径运动的田赛项目之一。是一种由有节奏的助跑、单脚起跳、越过横杆落地等动作组成，以越过横杆上缘的高度来计算成绩的比赛项目。
+跳高是运动征服高度的运动项目，是人类不屈不挠，勇攀高峰的象征。也有人称跳高是一项失败者的运动。因为每次比赛，运动员在跳过一个高度以后，还要向新的高度挑战，直到最后跳不过去为止。.  
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+**竞走**  
+竞走（Race Walking），是从日常行走的基础上发展出来的运动，规则规定支撑腿必须伸直，从单脚支撑过渡到双脚支撑，在摆动腿的脚跟接触地面前，后蹬腿的脚尖不得离开地面，以确保没有出现“腾空”的现象，而这也是竞走与跑步的主要分别。普通走步的速度，每小时约五公里左右，而竞走的速度则快得多。竞走比赛最先出现于1775年至1800年间的英国，男子竞走于1908年伦敦奥运会正式成为比赛项目；女子竞走比赛始于1932年的捷克，直至1992年的奥运会，女子10千米竞走才正式成为比赛项目 
 
-### EXPERIENCE
+### 水下运动
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **跳水** <span style="float: right; ">Duration</span>  
+跳水（Diving [1]  ）是一项优美的水上运动，它是从高处用各种姿势跃入水中或是从跳水器械上起跳，在空中完成一定动作姿势，并以特定动作入水的运动。
+跳水运动包括实用跳水、表演跳水和竞技跳水。跳水运动在跳水池中进行。跳水运动员从1米、3米跳板，或从5米、7.5米和10米跳台跳水。跳水运动要求拥有空中的感觉，协调，柔韧性，优美，平衡感和时间感等素质。
+竞技跳水是一项由个人参加的竞赛项目。跳水运动员本人由跳台或跳板腾空，运动员可以直接入水或在空中做各种难度的体操花样动作，以干净利索而优美的姿势入水。我国出色的跳水运动员有田亮，郭晶晶，吴敏霞等。
+跳水是指运动者在一定高度的器械上起跳，完成空中动作后，以入水为结束的一项水上技巧运动。跳水运动一般可分为竞赛性跳水和非竞赛性跳水两大类。
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **花样游泳** <span style="float: right; ">Duration</span>  
+花样游泳（英文：Synchronised swimming），是融入舞蹈和音乐的一项优美的水上竞技项目 。原为游泳比赛间歇时的水中表演项目，由游泳、技巧、舞蹈和音乐编排而成，有“水中芭蕾”之称。
+花样游泳是一项具有艺术性的优雅的体育运动，它也需要力量和技巧，需要许多年不断的训练来掌握。有十个裁判关注她们的每一个动作，运动员必须作出许多组推举、旋转、弯曲，所有这些动作都不能借助于池底的地面。还要在不呼吸的情况下作伸展，常规动作要持续五分钟，同时进行表演。即使在最紧张的常规动作要求里，水上芭蕾运动员们还要努力保持轻松的形象。第16届国际泳联世界锦标赛花样游泳男女混合双人技巧预赛在俄罗斯喀山市举行，此次世锦赛花样游泳新增男女混合项目，这是花游男选手首次在世锦赛中亮相。  
+ 
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **竞技游泳** <span style="float: right; ">Duration</span>  
+游泳运动项目之一，以运动员游进速度快慢论胜负的比赛项目，它包括出发、途中游、转身和终点触壁技术，以及自由泳（爬泳）、仰泳、蛙泳、蝶泳四种泳式和由这四种泳式组成的混合泳。 
 
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+-
+- 球类.
+- 田径
+- 水下运动.
