@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Blog
+layout: blog
+title:忒套
 subtitle: Select ramblings of Pudhina
 ---
 
